@@ -13,7 +13,7 @@ public class GitCommitTest {
 	  gitTest.setGitName("ysyyy");
 	//此处代码由（E://workspace）完成
 	  gitTest.setGitPrice("12345");
-	  gitTest.setGitVersion("11");
+	  gitTest.setGitVersion("10.10");
 	  gitTestList.add(gitTest);
 	  System.out.println("This is a Test!");
 	  
