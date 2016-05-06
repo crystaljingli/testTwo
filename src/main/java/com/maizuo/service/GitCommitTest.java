@@ -16,6 +16,6 @@ public class GitCommitTest {
 	  gitTest.setGitVersion("10.10");
 	  gitTestList.add(gitTest);
 	  System.out.println("This is a Test!");
-	  
+	  System.out.println("This is a Test!");
  }
 }
