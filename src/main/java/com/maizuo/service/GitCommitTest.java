@@ -9,7 +9,7 @@ public class GitCommitTest {
 	  gitTest.setGitName("ysyyy");
 	//此处代码由（E://workspace）完成
 	  gitTest.setGitPrice("12345");
-	  System.out.println("This is a Tested!");
+	  System.out.println("This is a Test!");
 	  
  }
 }
