@@ -17,5 +17,6 @@ public class GitCommitTest {
 	  gitTestList.add(gitTest);
 	  System.out.println("This is a Test!");
 	  System.out.println("This is a Test!");
+	  System.out.println("This is a Test!");
  }
 }
