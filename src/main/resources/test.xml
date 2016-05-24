@@ -1,1 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<struts>
+    <constant name="struts.action.extension" value="htm"></constant>
+    <include file="struts-default.xml"/>
+    <include file="struts-seat.xml"/>
+    <include file="struts/struts-test.xml"/>
+    <include file="struts/struts-offer.xml"/>
+    <include file="struts-mng.xml"/>
+    <include file="struts/struts-self.xml"/>
+    <include file="struts/struts-gewala.xml"/>
+</struts>
