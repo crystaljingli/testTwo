@@ -4,6 +4,7 @@ public class GitTest {
     private String gitName;
     private String gitVersion;
     private String gitPrice;
+    private String gitAge;
 	public String getGitName() {
 		return gitName;
 	}
@@ -22,6 +23,12 @@ public class GitTest {
 	public void setGitPrice(String gitPrice) {
 		this.gitPrice = gitPrice;
 	}
+        public String  getGitAge(String gitAge){
+               return gitAge;       
+        } 
+        public void setGitAge(String gitAge) {
+		this.gitAge = gitAge;
+	}  
 	@Override
 	public String toString() {
 		return "GitTest [gitName=" + gitName + ", gitVersion=" + gitVersion
